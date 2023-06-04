@@ -5,4 +5,4 @@
 <h3>I'm Douglas Bastos.</h3>
 <h6>My social networks</h6>
 
-<a href="https://www.linkedin.com/in/douglas-dauto-bastos-24710122b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/douglas-dauto-bastos-24710122b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
