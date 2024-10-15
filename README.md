@@ -6,3 +6,4 @@
 
 <a href="https://www.linkedin.com/in/douglas-dauto-bastos-24710122b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://douglas-dauto.github.io/meu-portfolio/" style="background-color: rgb(47, 179, 255); font-weight: bold; width: min-content; padding: 5px 10px;color: black;">Portfólio</a>
+     <a href="https://international-iq-test.com/pt/670d490c-c8e8-467b-95cc-04e095ca4579" style="background-color: rgb(47, 179, 255); font-weight: bold; width: min-content; padding: 5px 10px;color: black;">Ver resultado do meu teste internacional de QI</a>
