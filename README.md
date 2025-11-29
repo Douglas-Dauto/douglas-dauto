@@ -1,4 +1,4 @@
-<h3>Olá! me chamo Douglas Bastos, sou um curioso e entusiasta da tecnologia que adora explorar o universo do código. Atualmente, estou avançando na trilha de desenvolvimento front-end java.</h3>
+<h3>Olá! me chamo Douglas Bastos, sou um curioso e entusiasta da tecnologia que adora explorar o universo do código. Atualmente, estou avançando na trilha de desenvolvimento front-end.</h3>
 
 <h6>Minhas redes de contato:</h6>
 
